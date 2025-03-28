@@ -1,0 +1,21 @@
+🚦 AI-Powered Smart Traffic Management System
+🎯 Project Overview
+Currently working on an AI-powered solution to optimize traffic management by dynamically adjusting traffic light timings in real time using computer vision, reinforcement learning, and IoT. 
+This project is part of ReGen Hackathon 2025, a national-level 48-hour hackathon organized by NIT, Manipur.
+
+🏆 Achievements
+✅ Finalist: Top 12 out of 700+ teams across the country.
+✅ Round 2 Shortlist: Successfully advanced to the final round after a detailed 12-page proposal submission.
+
+🔥 Technology Stack
+Computer Vision: YOLOv8 for real-time vehicle detection.
+Traffic Density Calculation: OpenCV for lane detection and object classification.
+Reinforcement Learning: SB3 models for dynamic optimization.
+IoT & Real-Time Monitoring: Kafka and IoT sensors for continuous data streaming.
+Generative AI for Prediction: GANs and LSTM models for anomaly detection.
+
+🤝 Team Members
+@Pawan Hete
+@Ameen Khan
+@Rugwed Yawalkar
+@Himanshu Sayankar
