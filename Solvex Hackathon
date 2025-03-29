@@ -1,0 +1,37 @@
+🧠 Solvex – 24-Hour Innovation Challenge | Solutions 2K25, Army Institute of Technology (AIT), Pune
+Solvex is a 24-hour offline innovation challenge conducted under Solutions 2k25, the Army Institute of Technology (AIT) annual technical fest, Pune. This event 
+brings together aspiring innovators, developers, and problem-solvers to tackle real-world challenges through technology-driven solutions.
+
+🎯 Our Project: AI-Powered Log Management and Anomaly Detection System
+Our team is developing an AI-powered Log Management and Anomaly Detection System that aims to automate log analysis, identify potential anomalies, and predict system 
+failures. The project leverages Natural Language Processing (NLP), Machine Learning (ML), and Time-Series Analysis to analyze application logs and provide meaningful 
+insights to enhance system performance.
+
+🚀 Project Overview
+
+📝 Problem Statement
+Monitoring and analyzing application logs in large-scale applications is time-consuming and prone to human error. Manual log analysis makes detecting system 
+anomalies difficult and predicting failures in real time. Our solution automates the log analysis process and improves system reliability by detecting anomalies 
+and notifying relevant stakeholders.
+
+🎯 Solution Approach
+Our system aims to:
+✅ Parse and analyze logs from multiple sources.
+✅ Detect anomalies using AI/ML models trained on historical log data.
+✅ Predict potential system failures using time-series models.
+✅ Provide real-time alerts and notifications for critical issues.
+✅ Visualize log data and system insights through interactive dashboards.
+
+📌 Current Progress
+✅ Problem Statement Defined
+✅ Tech Stack Finalized
+✅ Initial Log Parsing and Data Preprocessing Completed
+⏳ Model Training and Evaluation (In Progress)
+⏳ Dashboard Development (In Progress)
+⏳ Real-Time Alerting System Integration (In Progress)
+
+🤝 Team Members
+Pawan Hete
+Ameen Khan
+Rugwed Yawalkar
+Himanshu Sayankar
